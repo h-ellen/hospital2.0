@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Dependency directories
+.pnpm/
+.pnp.cjs
+.pnp.loader.mjs
+
+# Build output
+dist/
+build/
+**/dist/
+**/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.local
